@@ -18,7 +18,8 @@ This is my Zarjaz attempt at learning [Vue.js](https://vuejs.org/)
 
 ### Ubuntu
 
-```curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -
+```
+curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -
 sudo apt-get install -y nodejs
 ```
 
@@ -26,12 +27,14 @@ sudo apt-get install -y nodejs
 
 ### Ubuntu
 
-```npm install vue-cli
+```
+npm install vue-cli
 ```
 
 then set your path to include the ~/node-modules .bin directory
 
-```export PATH=`npm bin`:$PATH
+```
+export PATH=$(npm bin):$PATH
 ```
 
 
