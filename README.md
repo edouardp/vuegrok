@@ -2,7 +2,7 @@
 
 ## Borag Thungg Earthlets!
 
-This is my Zarjaz attempt at learning Vue.js
+This is my Zarjaz attempt at learning [Vue.js](https://vuejs.org/)
 
 ## Todo List
 
