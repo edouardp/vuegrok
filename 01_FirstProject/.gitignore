@@ -1,5 +1,19 @@
+# OSX Files
 .DS_Store
+# Node.js development
 node_modules/
 dist/
 npm-debug.log
 yarn-error.log
+# Vim swap
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-v][a-z]
+[._]sw[a-p]
+# Vim session
+Session.vim
+# Vim temp files
+.netrwhist
+*~
+# Vim tags files
+tags
